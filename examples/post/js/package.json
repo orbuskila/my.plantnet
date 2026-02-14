@@ -9,7 +9,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "form-data": "^3.0.0"
   }
 }
